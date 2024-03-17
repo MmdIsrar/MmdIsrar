@@ -1,4 +1,4 @@
-![MasterHead](/Israr_github_banner.png)
+![MasterHead](/Github_banner.png)
 
 <h1 align="center">Hey there, I'm Israr</h1>
 
